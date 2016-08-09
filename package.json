@@ -1,12 +1,12 @@
 {
-  "name": "demo-workshopper",
+  "name": "express-lane",
   "version": "1.0.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/linclark/demo-workshopper"
+    "url": "https://github.com/benjamincarp/express-lane"
   },
-  "license": "BSD-3-Clause",
-  "bin": "./demo-workshopper.js",
+  "license": "",
+  "bin": "./express-lane.js",
   "dependencies": {
     "workshopper": "1.x",
     "workshopper-exercise": "^0.2.2",

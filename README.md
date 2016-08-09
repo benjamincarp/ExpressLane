@@ -1,4 +1,4 @@
-demo-workshopper
+express-lane 
 ================
 
-An example Node.js workshopper lesson.
+A Node.js workshopper for learning to make an API server using express.

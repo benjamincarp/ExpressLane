@@ -1,3 +1,6 @@
 [
-    "TEST_EXERCISE"
+  "TEST_EXERCISE"
 ]
+
+
+// hello (get), what is middleware, static, form(post), put(status 201), delete, params, queries, json, error handling (404)
